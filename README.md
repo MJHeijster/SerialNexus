@@ -1,1 +1,2 @@
 # SerialNexus
+Welcome to SerialNexus.
